@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecovite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c82f64a731bd4270588daa0e0fdb8b0cc7774a70")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecovite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecovite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
